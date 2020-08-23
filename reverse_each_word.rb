@@ -18,5 +18,4 @@ def reverse_each_word(string)
    
 end
 
-=======
-88f8a97f6630faa
+=====
